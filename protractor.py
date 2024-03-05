@@ -10,5 +10,5 @@ def solution(angle):
         return 4
     
 solution(70)
-solution(91)
+solution(92)
 solution(180)
