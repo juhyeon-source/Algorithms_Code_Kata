@@ -3,4 +3,4 @@ def solution(age):
     return answer
 
 solution(40)
-solution(23)
+solution(21)
