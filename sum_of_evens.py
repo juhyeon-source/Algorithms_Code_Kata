@@ -6,4 +6,4 @@ def solution(n):
     return sum(arr)
 
 solution(10)
-solution(4)
+solution(6)
